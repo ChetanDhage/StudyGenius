@@ -1,6 +1,4 @@
-# e-learning
-EDUCATION WEBSITE
-I have designed an educational website template which contain sections like Home,About,Courses and Contact.It is responsive as well.
+# E-learning
+StudyGenius - Empowering Minds through Online Learning
 
-TECH STACK :
-HTML , CSS and JAVASCRIPT
+StudyGenius is a dynamic e-learning platform designed to revolutionize the way we acquire knowledge. Our mission is to make education accessible, engaging, and effective for learners of all ages and backgrounds.
